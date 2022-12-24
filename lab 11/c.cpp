@@ -63,7 +63,4 @@ int main(){
     }
 
     cout << res;
-    // for (auto i : g){
-    //     cout << i.first << " " << i.second.first + 1 << " " << i.second.second + 1 << endl;
-    // }
 }
